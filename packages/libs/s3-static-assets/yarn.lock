@@ -28,10 +28,10 @@
   resolved "https://registry.npmjs.org/@types/mime-types/-/mime-types-2.1.0.tgz#9ca52cda363f699c69466c2a6ccdaad913ea7a73"
   integrity sha1-nKUs2jY/aZxpRmwqbM2q2RPqenM=
 
-aws-sdk@2.924.0:
-  version "2.924.0"
-  resolved "https://registry.npmjs.org/aws-sdk/-/aws-sdk-2.924.0.tgz#daefcd11729638d9c9279633a0cc5ba1c98fee64"
-  integrity sha512-EwJmZDNhEY1/hrihile8+EdrYrT5VKcLuL5F+OA9L+AYWxNou0i4fP36N5KFtMikkAGB31qhAuRDPcr132RnUw==
+aws-sdk@2.931.0:
+  version "2.931.0"
+  resolved "https://registry.npmjs.org/aws-sdk/-/aws-sdk-2.931.0.tgz#7fdc886fa7697095203fe7de16bc948a8b1c8daa"
+  integrity sha512-Db97/aJq8zYl8mHzY6dNO6m9S89TqN4HEUUc2aCYQCTyMb/eNrjf+uZTnutnQbJkClqHzxFcWc3aqe5VlTac/A==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
