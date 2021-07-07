@@ -1116,8 +1116,13 @@
     picomatch "^2.2.2"
 
 "@sls-next/core@link:../core":
-  version "0.0.0"
-  uid ""
+  version "1.0.0-alpha.22"
+  dependencies:
+    "@hapi/accept" "^5.0.1"
+    cookie "^0.4.1"
+    jsonwebtoken "^8.5.1"
+    path-to-regexp "^6.1.0"
+    regex-parser "^2.2.10"
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.7"
@@ -1211,10 +1216,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/send@^0.14.5":
-  version "0.14.7"
-  resolved "https://registry.npmjs.org/@types/send/-/send-0.14.7.tgz#ee6224edd5a593d7f553235f350569accb56a4af"
-  integrity sha512-WCUMbzWW1sTEZX31cRMcBxflUXX/JmAYejhjxXtrLGn+vd/yyFjHh/F9FIigAEjE2LauhfH94BT7NJj9Ru2Wlg==
+"@types/send@^0.17.1":
+  version "0.17.1"
+  resolved "https://registry.npmjs.org/@types/send/-/send-0.17.1.tgz#ed4932b8a2a805f1fe362a70f4e62d0ac994e301"
+  integrity sha512-Cwo8LE/0rnvX7kIIa3QHCkcuF21c05Ayb0ZfxPiv0W8VRiZiNW/WuRupHKpqqGVGf7SUA44QSOUKaEd9lIrd/Q==
   dependencies:
     "@types/mime" "^1"
     "@types/node" "*"
